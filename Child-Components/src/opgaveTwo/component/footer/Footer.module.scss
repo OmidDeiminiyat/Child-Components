@@ -1,0 +1,12 @@
+.footerStyle {
+    background-color: rgba(199, 193, 99, 0.61);
+    width: 400px;
+    ul{
+        display: flex;
+        flex-direction: row;
+        li{
+            list-style: none;
+            margin-left: 30px;
+        }
+    }
+}
